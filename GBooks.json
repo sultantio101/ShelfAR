@@ -1,0 +1,73 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fPyPygAACAAJ",
+      "etag": "XmzADiiQwTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fPyPygAACAAJ",
+      "volumeInfo": {
+        "title": "Band of Brothers",
+        "subtitle": "E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+        "authors": [
+          "Stephen E. Ambrose"
+        ],
+        "publishedDate": "2009-02",
+        "description": "An authoritative collection of military histories from one of the foremost authors on the subject, Stephen E. Ambrose, historical consultant on Steven Spielberg's Saving Private Ryan. Each title include a full index and list of sources.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "184739759X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781847397591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1939-1945"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1074,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=fPyPygAACAAJ&dq=isbn:9781847397591&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=fPyPygAACAAJ&dq=isbn:9781847397591&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Band_of_Brothers.html?hl=&id=fPyPygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fPyPygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Drawing on interviews with survivors as well as the soldiers&#39; journals and letters, Ambrose chronicles the gripping true stories of these American heroes."
+      }
+    }
+  ]
+}
